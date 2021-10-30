@@ -1,3 +1,4 @@
+# To delete all the objects(versioned/current) in the bucket
 warning = '''WARNING
 This code will completely wipe the bucket!!!
 All the current and versioned files will be permanently removed/deleted'''
